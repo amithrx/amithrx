@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit kumar, a CS sophomore at IIT Ropar
+- 👋 Hi, I’m Amit kumar, a CS sophomore at IIT Ropar.
 - 👀 I’m interested in Coding and Robotics.
 - 🌱 I’m currently learning Web development.
 - 💻 I am proficient in C and C++.
