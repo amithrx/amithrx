@@ -11,5 +11,10 @@
 ## :trophy: My Github Stats <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amithrx&show_icons=true&theme=tokyonight) <br>
 
+ ### Github Analytics:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=amithrx&count_private=true&show_icons=true&theme=nightowl)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amithrx&layout=compact&theme=nightowl)
+
 
 
