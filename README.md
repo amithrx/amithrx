@@ -1,7 +1,7 @@
 
 # :wave: Hey There !! I am Amit Kumar.
 - :mortar_board: I am currently CSE Junior student at IIT Ropar.
-- :seedling: I am interested in Web Development, Machine learning.
+- :seedling: I am interested in App development, Web Development and Machine learning.
 - :computer: I am proficient in C and C++.
 - :sparkles: Looking forward to collaborate on many projects.<br><br>
   <a href="https://www.linkedin.com/in/amit-kumar-6787b4235/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
