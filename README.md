@@ -1,6 +1,6 @@
 
 # :wave: Hey There !! I am Amit Kumar.
-- :mortar_board: I am currently CSE Junior student at IIT Ropar.
+- :mortar_board: I am currently CSE Senior student at IIT Ropar.
 - :seedling: I am interested in App development, Web Development and Machine learning.
 - :computer: I am proficient in C and C++.
 - :sparkles: Looking forward to collaborate on many projects.<br><br>
